@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "weeat-1a169": {
+      "hosting": {
+        "app": [
+          "weeat-1a169"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "weeat-1a169"
+  }
+}
